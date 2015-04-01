@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Derived from fontawesome logout -->
+<!-- License: SIL OFL 1.1 http://scripts.sil.org/OFL -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logout.svg"
+   height="16"
+   id="svg7384"
+   inkscape:version="0.48.5 r10040"
+   version="1.1"
+   width="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Font Awesome Logout</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="true"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:current-layer="layer12"
+     inkscape:cx="0.4718192"
+     inkscape:cy="-5.9905884"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#000000"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="true"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="842"
+     inkscape:window-maximized="0"
+     inkscape:window-width="911"
+     inkscape:window-x="1038"
+     inkscape:window-y="108"
+     inkscape:zoom="5.6568542"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       originx="394.00016px"
+       originy="156.15679px"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="status"
+     style="display:inline"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="devices"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="apps"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="places"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="mimetypes"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g4953"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="translate(152.99996,-373.15679)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="translate(152.99996,-373.15679)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m -147.28603,386.29968 q 0,0.0356 0.008,0.17858 0.008,0.14286 0.006,0.2366 -0.006,0.0937 -0.0268,0.20982 -0.0224,0.11606 -0.0894,0.17411 -0.0667,0.058 -0.18292,0.058 h -2.85727 q -1.06254,0 -1.81705,-0.75446 -0.75449,-0.75447 -0.75449,-1.81696 v -6.28573 q 0,-1.06251 0.75449,-1.81697 0.75451,-0.75445 1.81705,-0.75445 h 2.85727 q 0.11609,0 0.2009,0.085 0.0849,0.085 0.0849,0.20091 0,0.0356 0.008,0.17857 0.008,0.14286 0.006,0.2366 -0.006,0.0937 -0.0267,0.20983 -0.0223,0.11607 -0.0894,0.1741 -0.067,0.0581 -0.18304,0.0581 h -2.85728 q -0.58931,0 -1.00897,0.41963 -0.41967,0.41967 -0.41967,1.00894 v 6.28571 q 0,0.58929 0.41967,1.00894 0.41966,0.41964 1.00897,0.41964 h 2.78584 q 0,0 0.10267,0.008 0.10268,0.008 0.10268,0.0269 0,0.0179 0.0714,0.0492 0.0714,0.0313 0.0625,0.0803 -0.008,0.049 0.018,0.12048 z m 8.28607,-4.85715 q 0,0.23215 -0.16964,0.40178 l -4.85737,4.85715 q -0.16964,0.16964 -0.4018,0.16964 -0.23214,0 -0.4018,-0.16964 -0.16963,-0.16964 -0.16963,-0.40178 v -2.57143 h -4.00019 q -0.23215,0 -0.40181,-0.16963 -0.16964,-0.16967 -0.16964,-0.40179 v -3.42858 q 0,-0.23214 0.16964,-0.40179 0.16966,-0.16963 0.40181,-0.16963 h 4.00019 v -2.57144 q 0,-0.23215 0.16963,-0.40179 0.16966,-0.16963 0.4018,-0.16963 0.23216,0 0.4018,0.16963 l 4.85737,4.85716 q 0.16964,0.16962 0.16964,0.40177 z"
+       id="path3871"
+       style="fill:#bebebe;fill-opacity:1" />
+  </g>
+</svg>
