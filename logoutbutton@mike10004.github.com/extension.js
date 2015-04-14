@@ -34,6 +34,9 @@ const Main = imports.ui.main;
 const GnomeSession = imports.misc.gnomeSession;
 const LOGOUT_MODE_NORMAL = 0;
 let _logoutButton = null;
+let baseGIcon;
+let hoverGIcon;
+let buttonIcon;
 
 function init() {
 
@@ -44,12 +47,22 @@ function init() {
                 y_fill: false,
                 track_hover: true });
   // credit: http://stackoverflow.com/questions/20394840/how-to-set-a-png-file-in-a-gnome-shell-extension-for-st-icon
-  let icon = new St.Icon({
-    'gicon': Gio.icon_new_for_string(Me.path + "/icons/logout.svg"),
+  baseGIcon = Gio.icon_new_for_string(Me.path + "/icons/logout-base.svg");
+  hoverGIcon = Gio.icon_new_for_string(Me.path + "/icons/logout-hover.svg");
+  buttonIcon = new St.Icon({
+    'gicon': Gio.icon_new_for_string(Me.path + "/icons/logout-base.svg"),
     'style_class': 'system-status-icon'
   });
-  _logoutButton.set_child(icon);
+
+  _logoutButton.set_child(buttonIcon);
   _logoutButton.connect('button-press-event', _DoLogout);
+  _logoutButton.connect('enter-event', function() {
+    _SetButtonIcon('hover');
+  });
+  _logoutButton.connect('leave-event', function(){
+    _SetButtonIcon('base');
+  });
+
 }
 
 function _DoLogout () {
@@ -64,4 +77,12 @@ function enable () {
 
 function disable () {
   Main.panel._rightBox.remove_actor(_logoutButton);
+}
+
+function _SetButtonIcon(mode) {
+  if (mode === 'hover') {
+    buttonIcon.set_gicon(hoverGIcon);
+  } else {
+    buttonIcon.set_gicon(baseGIcon);
+  }
 }
